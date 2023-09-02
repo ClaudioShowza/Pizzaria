@@ -1,0 +1,28 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    height: 48px;
+    align-items: center;
+}
+
+ul > li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    margin-left: 16px;
+}
+
+.imagem__logo {
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+
+}
+
+@media (max-width: 600px){
+    .lista__menu {
+        display: none;
+    }
+}

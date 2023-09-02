@@ -1,0 +1,17 @@
+.titulo__principal {
+    font-family: var(--font-poppins);
+    font-size: var(--txt-medium);
+}
+
+.txt__small {
+    font-family: var(--font-kanit);
+    font-size: var(--txt-small);
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.txt__medium {
+    font-family: var(--font-poppins);
+    font-size: var(--txt-medium);
+    font-weight: 700;
+}

@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Poppins&display=swap');
+
+:root {
+    --font-kanit: "Kanit";
+    --font-poppins: "Poppins";
+    --txt-large: 32px;
+    --txt-medium: 24px;
+    --txt-small: 16px;
+    --color-black: black;
+    --color-white: white;
+}
